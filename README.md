@@ -1,6 +1,5 @@
 # dashalert
-
-A Clojure library designed to ... well, that part is up to you.
+A very old code Clojure library designed to alert user based on google alert
 
 ## Usage
 
